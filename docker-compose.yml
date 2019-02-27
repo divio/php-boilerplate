@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    volumes:
+      - ".:/var/www/html:rw"
+    ports:
+      - "8000:80"
