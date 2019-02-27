@@ -2,7 +2,7 @@
    "package-name": "php-boilerplate",
    "templates": [],
    "identifier": "php",
-   "version": "x.x.x",
+   "version": "7.3",
    "excluded": [
         "LICENSE.txt",
         ".DS_Store"
