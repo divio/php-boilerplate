@@ -6,4 +6,5 @@ data
 
 # divio cloud
 .aldryn
+.divio
 migrate.sh
